@@ -1,0 +1,17 @@
+AdvancedPHP 0.1 Release Notes
+======================
+
+Updates since v0.00
+-------------------
+
+Features
+
+ * NameSpace Syntax :  just test
+
+
+   
+
+ * An incoming "git push" that attempts to push too many bytes can now
+   be rejected by setting a new configuration variable at the receiving
+   end.
+
