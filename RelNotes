@@ -12,6 +12,8 @@ Features
 	* namespace : 用来显式访问当前命名空间或子命名空间中的元素
 	* PSR : http://www.php-fig.org/psr
 	* 3 导入的namespace不能跟本文件中已经定义的class冲突
+	* 4 namespace 与 php的动态语言特性
+	* 5 use 导入命令的5个使用场景
 
    
 
