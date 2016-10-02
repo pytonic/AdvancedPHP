@@ -6,8 +6,11 @@ Updates since v0.00
 
 Features
 
- * NameSpace Syntax :  just test
-
+ * NameSpace Syntax :  
+	有用的工具：
+	* __NAMESPACE__	: 当前所在的命名空间：
+	* namespace : 用来显式访问当前命名空间或子命名空间中的元素
+	* PSR : http://www.php-fig.org/psr
 
    
 
